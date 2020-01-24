@@ -1,0 +1,17 @@
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal
+TestSolution/bin/
+TestSolution/DataAcquisition/bin/Debug/DataAcquisition.dll
+TestSolution/DataAcquisition/bin/
+TestSolution/DataAcquisitionTests/bin/
+TestSolution/DataAcquisitionTests/obj/
+TestSolution/Interfaces/bin/
+TestSolution/Interfaces/obj/
+TestSolution/packages/
+TestSolution/Parser/obj/
+TestSolution/ParserTests/obj/
+TestSolution/TestSolution/bin/
+TestSolution/TestSolution/obj/
+TestSolution/DataAcquisition/obj/
