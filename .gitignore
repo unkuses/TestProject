@@ -15,3 +15,6 @@ TestSolution/ParserTests/obj/
 TestSolution/TestSolution/bin/
 TestSolution/TestSolution/obj/
 TestSolution/DataAcquisition/obj/
+TestSolution/.vs/
+TestSolution/Parser/bin/
+TestSolution/ParserTests/bin/

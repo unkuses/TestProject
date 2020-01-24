@@ -66,11 +66,10 @@
       // 
       // dtmMain
       // 
-      this.tableLayoutPanel1.SetColumnSpan(this.dtmMain, 2);
-      this.dtmMain.Dock = System.Windows.Forms.DockStyle.Top;
+      this.tableLayoutPanel1.SetColumnSpan(this.dtmMain, 3);
       this.dtmMain.Location = new System.Drawing.Point(3, 3);
       this.dtmMain.Name = "dtmMain";
-      this.dtmMain.Size = new System.Drawing.Size(172, 20);
+      this.dtmMain.Size = new System.Drawing.Size(225, 20);
       this.dtmMain.TabIndex = 0;
       // 
       // lbTimestampTest
